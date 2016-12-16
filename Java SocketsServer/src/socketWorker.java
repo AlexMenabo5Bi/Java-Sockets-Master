@@ -8,7 +8,7 @@ import java.io.*;
 
 /**
  *
- * @author Prof. Matteo Palitto
+ * @author MENABò ALESSANDRO
  */
 class SocketWorker implements Runnable {
   private Socket client;
